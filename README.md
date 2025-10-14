@@ -2,8 +2,7 @@
 
 All of the sources listed below are from material that I have learned from. Whether these are readings, videos, audios, or other, they have contributed to my knowledge basis and I believe I have a moral obligation to credit them. The sources below are in no particular order. There is no particular date on when I began collecting these. I sometimes forget to write them down. This is what I tend to keep.   
 
-> Currently working on [Advanced Data Structures, RSA, and Quantum Algorithms from UCB](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms/)
----
+> Currently working on [Advanced Data Structures, RSA, and Quantum Algorithms from UCB](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms/) (yes, mess is intentional)
 [Calculus I, Dr. Trefor Bazett](https://www.youtube.com/watch?v=LWPzHlSBlxI&list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)  
 [MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)  
 [Calculus in Context](http://www.science.smith.edu/~callahan/intromine.html)  
