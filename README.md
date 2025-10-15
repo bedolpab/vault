@@ -2,151 +2,306 @@
 
 All of the sources listed below are from material that I have learned from. Whether these are readings, videos, audios, or other, they have contributed to my knowledge basis and I believe I have a moral obligation to credit them. The sources below are in no particular order. There is no particular date on when I began collecting these. I sometimes forget to write them down. This is what I tend to keep.   
 
-> Currently working on [Advanced Data Structures, RSA, and Quantum Algorithms from UCB](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms/) (yes, mess is intentional)
+> Currently working on [Advanced Data Structures, RSA, and Quantum Algorithms from UCB](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms/)
 ---
-[Calculus I, Dr. Trefor Bazett](https://www.youtube.com/watch?v=LWPzHlSBlxI&list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)  
-[MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)  
-[Calculus in Context](http://www.science.smith.edu/~callahan/intromine.html)  
-[Learn & Practice Resources for Calculus](https://tutorial.math.lamar.edu/)  
-[Matrix Calculus](https://explained.ai/matrix-calculus/index.html)  
-[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)  
-[Numerical Linear Algebra](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)  
-[The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)  
-[Linear Algebra, Jim Hefferon](https://joshua.smcvt.edu/linearalgebra/)  
-[MIT 18.06 Linear Algebra (Prof. Gilbert Strang)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)  
-[Combinatorics and Graph Theory](https://link.springer.com/book/10.1007/978-0-387-79711-3)  
-[An Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)  
-[Network Science](http://networksciencebook.com/chapter/0)  
-[Graph Theory by Sarada Herke](https://www.youtube.com/@SaradaHerke/playlists)  
-[Graph Theory with Applications](http://www.maths.lse.ac.uk/Personal/jozef/LTCC/Graph_Theory_Bondy_Murty.pdf)  
-[Visualizing Algorithms](https://visualgo.net/en)  
-[Chris Bourke Algorithms & Algorithm Analysis](https://www.youtube.com/watch?v=uyC_ZBsKQOg&list=PL4IH6CVPpTZX6rehRONhCMyCrDWhtJAhO)  
-[Discovering Modern Set Theory](https://people.ohio.edu/just/book1.html)  
-[Mathematics for Computer Science, 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/)  
-[How to Think Like a Mathematician](https://blngcc.files.wordpress.com/2008/11/2-kevin-houston-how-to-think-like-a-mathematician.pdf)  
-[ProofWiki](https://proofwiki.org/wiki/Main_Page)  
-[Introduction to Probability, Statistics, and Random Processes](https://probabilitycourse.com/)  
-[Seeing Theory](https://seeing-theory.brown.edu/basic-probability/index.html)  
-[Mathematics for Machine Learning — Ulrike von Luxburg, 2020/21](https://www.youtube.com/watch?v=PZwxF59DhYA&list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)  
-[Coding the Matrix](https://www.youtube.com/playlist?list=PLEhMEyM9jSinRHXJgRCOLZUiu9847V2g0)  
-[Calculus for Machine Learning](https://www.youtube.com/watch?v=en6cnMEviSU&list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)  
-[AWS Machine Learning Skill Builder](https://explore.skillbuilder.aws/learn/course/356/play/1036/math-for-machine-learning)  
-[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)  
-[Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)  
-[Machine Learning, A Probabilistic Perspective](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)  
-[Data Driven Science & Engineering](http://www.databookuw.com/page-2/page-4/)  
-[Data Science from Scratch, First Principles with Python](https://covid19.uthm.edu.my/wp-content/uploads/2020/04/Data-Science-from-Scratch-First-Principles-with-Python-by-Joel-Grus-z-lib.org_.epub_.pdf)  
-[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)  
-[Mathematics for Machine Learning Book](https://mml-book.github.io/)  
-[Find Free Courses Online (Class Central)](https://www.classcentral.com/)  
-[Machine Learning Cheatsheet](https://github.com/remicnrd/ml_cheatsheet)  
-[Getting Started in LaTeX](https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)  
-[Detexify (Draw Symbol -> LaTeX)](http://detexify.kirelabs.org/classify.html)  
-[Learn LaTeX](https://www.learnlatex.org/en/)  
-[Big-O Cheatsheet](https://www.bigocheatsheet.com/)  
-[CS50](https://www.youtube.com/@cs50)  
-[6.0001 Introduction to Computer Science](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)  
-[Arrays (UCSD Coursera)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)  
-[Hash Tables (UCSD Coursera)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)  
-[CS61B UC Berkeley Data Structures](https://sp21.datastructur.es/)  
-[Data Structures (Rob Edwards)](https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)  
-[Tail Recursion (UW Coursera)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)  
-[MIT Introduction To Algorithms, Third Edition (CLRS)](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)  
-[Binary Search (Khan Academy)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)  
-[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)  
-[Analysis of Algorithms (Skiena)](https://www3.cs.stonybrook.edu/~skiena/373/videos/)  
-[Algorithms (Abdul Bari)](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)  
-[Example User Schema Properties](https://www.databasezone.com/samples/User/index.htm)  
-[PostgreSQL Exercises](https://pgexercises.com/questions/basic/selectall.html)  
-[Password Storage Cheat Sheet (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)  
-[Dangit, Git?!?](https://ohshitgit.com/)  
-[MIT Version Control (Missing Semester)](https://missing.csail.mit.edu/2020/version-control/)  
-[Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)  
-[LeetCode](https://leetcode.com/)  
-[HackerRank](https://www.hackerrank.com/)  
-[Learn C++](https://www.learncpp.com/)  
-[Effective Modern C++](https://moodle.ufsc.br/pluginfile.php/2377667/mod_resource/content/0/Effective_Modern_C__.pdf)  
-[SQL Tutorial (Mode Analytics)](https://mode.com/sql-tutorial/)  
-[LearnShell.org](https://www.learnshell.org/)  
-[The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html)  
-[C# 9.0 In a Nutshell](https://www.amazon.com/C-9-0-Nutshell-Definitive-Reference/dp/1098100964)  
-[A Tour of C++](https://library.samdu.uz/download/11092)  
-[Journal of Machine Learning Research (JMLR)](https://jmlr.org/)  
-[r/REU (Research Experiences for Undergraduates)](https://www.reddit.com/r/REU/)  
-[List of Companies Hiring Without "Whiteboard" Interviews](https://github.com/poteto/hiring-without-whiteboards)  
-[SQL Interview Questions (InterviewBit)](https://www.interviewbit.com/sql-interview-questions/)  
-[Tech Interview Handbook](https://www.techinterviewhandbook.org/)  
-[LeetCode Interview Questions for Big Tech (FLAG)](https://github.com/Charmve/LeetCode4FLAG)  
-[Technical Interview Preparation Guide](https://github.com/Olshansk/interview)  
-[Preparing for your Interview (Meta Careers)](https://www.metacareers.com/profile/preparation_hub?chooseView=Arrays)  
-[Company Interview Questions (GitHub Repo)](https://github.com/sachuverma/DataStructures-Algorithms/tree/master/Companywise%20Questions)  
-[Beginner's Guide to Deploying Web Apps](https://medium.com/swlh/localhost-to-com-deploying-a-web-app-for-beginners-ea05b0213eb7)  
-[Invoice Generator](https://invoiceto.me/)  
-[Tome (AI Storytelling Format)](https://tome.app/)  
-[Profile Picture Maker](https://pfpmaker.com/)  
-[Synthesia (AI Video Generation)](https://www.synthesia.io/)  
-[WolframAlpha (Computational Knowledge Engine)](https://www.wolframalpha.com/)  
-[Online Compiler (Many Languages)](https://www.mycompiler.io/)  
-[Computer Vision: Algorithms and Applications, 2nd Edition](https://szeliski.org/Book/)  
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)  
-[Linear Programming Introduction](https://www.optimization101.org/2020/12/welcome.html?m=1)  
-[A Guide to Technical Interviews for AI Researchers (PDF) — March 2025](https://attachments.convertkitcdnn2.com/1152607/59845259-d7c4-4e3b-bbde-477d11fedf3d/march-2025-a-guide-to-technical-interviews-for-ai-researchers-1.pdf?ck_subscriber_id=3596593631)  
-[*Cracking the Coding Interview* (6th Edition) discussion on LeetCode](https://leetcode.com/discuss/post/1152824/cracking-the-coding-interview-6th-editio-97nm/)  
-[Tensor Puzzles (GitHub)](https://github.com/srush/Tensor-Puzzles)  
-[Srush NLP YouTube playlists](https://www.youtube.com/@srush_nlp/playlists)  
-[Transformer Math 101](https://blog.eleuther.ai/transformer-math/)  
-[Deep Learning Interview Questions list by Julian8897 on Medium](https://medium.com/@julian8897/list/dl-interview-questions-8b0ec46701ec)  
-[Hugging Face docs: Accelerate — FSDP and DeepSpeed](https://huggingface.co/docs/accelerate/en/concept_guides/fsdp_and_deepspeed)  
-[Machine Learning Cheat Sheet PDF (by SoulMachine)](https://raw.githubusercontent.com/soulmachine/machine-learning-cheat-sheet/master/machine-learning-cheat-sheet.pdf)  
-[Machine Learning Interview (GitHub) by khangich](https://github.com/khangich/machine-learning-interview?tab=readme-ov-file)  
-[Lilian Weng’s blog](https://lilianweng.github.io/)  
-[Spinning Up in Deep Reinforcement Learning (OpenAI)](https://spinningup.openai.com/en/latest/)  
-[Symmetric Key Cryptanalysis How-To by akircanski](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html)  
-[The Novice's LLM Training Guide](https://rentry.org/llm-training)  
-[Top 55 Machine Learning Interview Questions for 2025](https://rentry.org/llm-training)  
-[Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0#heading=h.pxcur8v2qagu)  
-[How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)  
-[Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828)  
-[An Introduction to Convolutional Neural Networks](https://arxiv.org/pdf/1511.08458)  
-[Recurrent Neural Networks (RNNs): A gentle Introduction and Overview](https://arxiv.org/pdf/1912.05911)  
-[Quantum Machine Learning](https://arxiv.org/pdf/1912.05911)  
-[Steps Toward Artificial Intelligence](https://courses.csail.mit.edu/6.803/pdf/steps.pdf)  
-[A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)  
-[Lecture 2 | The Universal Approximation Theorem](https://www.youtube.com/watch?v=lkha188L4Gs)  
-[New Video Tutorial: Make a Neural Net Simulator in C++](https://millermattson.com/dave/?p=54)  
-[CS-449: Neural Networks](https://people.willamette.edu/~gorr/classes/cs449/intro.html)  
-[If my kids excel, will they move away?](https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html)  
-[Duke University Introduction to Machine Learning](https://online.duke.edu/course/introduction-to-machine-learning/)  
-[Technical Interivew Guide for AI Researchers & ML Engineers](https://attachments.convertkitcdnn2.com/1152607/59845259-d7c4-4e3b-bbde-477d11fedf3d/march-2025-a-guide-to-technical-interviews-for-ai-researchers-1.pdf?ck_subscriber_id=3596593631)  
-[Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/contents/1.1.1-working-in-research-vs.-workingin-production.html)  
-[Security Pro, Chapter 2](https://www.comptia.org/en-us/certifications/security-pro/)  
-[Lecture 1: Understanding Machine Learning Production [draft]](https://docs.google.com/document/d/1VuofeF5okBATz1F7HRQmOgi5Jc4bmUiHMYjRqwF-29s/edit?tab=t.0)  
-[Security Pro, Chapter 3](https://www.comptia.org/en-us/certifications/security-pro/)  
-[CrypTool-Online](https://legacy.cryptool.org/en/cto/)  
-[Analysis of large binaries and games in Ghidra-SRE](https://kiwidog.me/2021/07/analysis-of-large-binaries-and-games-in-ghidra-sre/)  
-[Reversing WannaCry Part 3 - The encryption component](https://www.youtube.com/watch?v=ru5VzUigKqw)  
-[Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in #Ghidra](https://www.youtube.com/watch?v=Sv8yu12y5zM)  
-[WANNACRY: Earth's Deadliest [Computer] Viruses](https://www.youtube.com/watch?v=I5Wxh-rCzrY)  
-[GitHub - NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)  
-[Ghidra - Wikipedia](https://en.wikipedia.org/wiki/Ghidra)  
-[pwn.college - Program Security - Reverse Engineering](https://pwn.college/program-security/reverse-engineering/)  
-[pwn.college - System Security - Kernel Security](https://pwn.college/system-security/kernel-security/)  
-[pwn.college - Intro to Cybersecurity - Intercepting Communication](https://pwn.college/intro-to-cybersecurity/intercepting-communication/)  
-[pwn.college - Assembly Refresher - Computer Architecture](http://www.youtube.com/watch?v=9jc0eSnrzF4)  
-[pwn.college - Program Interaction - Linux Process Loading](http://www.youtube.com/watch?v=kUMCAzSOY-o)  
-[pwn.college - Program Interaction - Binary Files](http://www.youtube.com/watch?v=nKqFeYJ483U)  
-[pwn.college - Program Interaction - Linux Process Loading](http://www.youtube.com/watch?v=kUMCAzSOY-o)  
-[pwn.college - Program Interaction - Linux Process Execution](http://www.youtube.com/watch?v=Vtb5wIlthRg)  
-[pwn.college - Assembly Refresher - Assembly](http://www.youtube.com/watch?v=ImdnOGNZflU)  
-[In-depth: ELF - The Extensible & Linkable Format](http://www.youtube.com/watch?v=nC1U1LJQL8o)  
-[Using GDB to look at core files](https://web.eecs.umich.edu/~sugih/pointers/gdb_core.html)  
-[Basics of Probability: Unions, Intersections, and Complements](https://www.youtube.com/watch?v=B1v9OeCTlu0&list=PLvxOuBpazmsOGOursPoofaHyz_1NpxbhA&index=3)  
-[An Introduction to Conditional Probability](https://www.youtube.com/watch?v=bgCMjHzXTXs&list=PLvxOuBpazmsOGOursPoofaHyz_1NpxbhA&index=4)  
-[If, only if & if and only if](https://www.youtube.com/watch?v=LHq5u6v1RKg)  
+[Calculus I, Dr. Trefor Bazett](https://www.youtube.com/watch?v=LWPzHlSBlxI&list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
+
+[MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+
+[Calculus in Context](http://www.science.smith.edu/~callahan/intromine.html)
+
+[Learn & Practice Resources for Calculus](https://tutorial.math.lamar.edu/)
+
+[Matrix Calculus](https://explained.ai/matrix-calculus/index.html)
+
+[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+
+[Numerical Linear Algebra](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
+
+[The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+[Linear Algebra, Jim Hefferon](https://joshua.smcvt.edu/linearalgebra/)
+
+[MIT 18.06 Linear Algebra (Prof. Gilbert Strang)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+
+[Combinatorics and Graph Theory](https://link.springer.com/book/10.1007/978-0-387-79711-3)
+
+[An Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)
+
+[Network Science](http://networksciencebook.com/chapter/0)
+
+[Graph Theory by Sarada Herke](https://www.youtube.com/@SaradaHerke/playlists)
+
+[Graph Theory with Applications](http://www.maths.lse.ac.uk/Personal/jozef/LTCC/Graph_Theory_Bondy_Murty.pdf)
+
+[Visualizing Algorithms](https://visualgo.net/en)
+
+[Chris Bourke Algorithms & Algorithm Analysis](https://www.youtube.com/watch?v=uyC_ZBsKQOg&list=PL4IH6CVPpTZX6rehRONhCMyCrDWhtJAhO)
+
+[Discovering Modern Set Theory](https://people.ohio.edu/just/book1.html)
+
+[Mathematics for Computer Science, 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/)
+
+[How to Think Like a Mathematician](https://blngcc.files.wordpress.com/2008/11/2-kevin-houston-how-to-think-like-a-mathematician.pdf)
+
+[ProofWiki](https://proofwiki.org/wiki/Main_Page)
+
+[Introduction to Probability, Statistics, and Random Processes](https://probabilitycourse.com/)
+
+[Seeing Theory](https://seeing-theory.brown.edu/basic-probability/index.html)
+
+[Mathematics for Machine Learning — Ulrike von Luxburg, 2020/21](https://www.youtube.com/watch?v=PZwxF59DhYA&list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
+
+[Coding the Matrix](https://www.youtube.com/playlist?list=PLEhMEyM9jSinRHXJgRCOLZUiu9847V2g0)
+
+[Calculus for Machine Learning](https://www.youtube.com/watch?v=en6cnMEviSU&list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
+
+[AWS Machine Learning Skill Builder](https://explore.skillbuilder.aws/learn/course/356/play/1036/math-for-machine-learning)
+
+[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
+[Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+
+[Machine Learning, A Probabilistic Perspective](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
+
+[Data Driven Science & Engineering](http://www.databookuw.com/page-2/page-4/)
+
+[Data Science from Scratch, First Principles with Python](https://covid19.uthm.edu.my/wp-content/uploads/2020/04/Data-Science-from-Scratch-First-Principles-with-Python-by-Joel-Grus-z-lib.org_.epub_.pdf)
+
+[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+
+[Mathematics for Machine Learning Book](https://mml-book.github.io/)
+
+[Find Free Courses Online (Class Central)](https://www.classcentral.com/)
+
+[Machine Learning Cheatsheet](https://github.com/remicnrd/ml_cheatsheet)
+
+[Getting Started in LaTeX](https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)
+
+[Detexify (Draw Symbol -> LaTeX)](http://detexify.kirelabs.org/classify.html)
+
+[Learn LaTeX](https://www.learnlatex.org/en/)
+
+[Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+
+[CS50](https://www.youtube.com/@cs50)
+
+[6.0001 Introduction to Computer Science](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+
+[Arrays (UCSD Coursera)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+
+[Hash Tables (UCSD Coursera)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
+
+[CS61B UC Berkeley Data Structures](https://sp21.datastructur.es/)
+
+[Data Structures (Rob Edwards)](https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
+
+[Tail Recursion (UW Coursera)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
+
+[MIT Introduction To Algorithms, Third Edition (CLRS)](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+
+[Binary Search (Khan Academy)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+
+[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+
+[Analysis of Algorithms (Skiena)](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
+
+[Algorithms (Abdul Bari)](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
+[Example User Schema Properties](https://www.databasezone.com/samples/User/index.htm)
+
+[PostgreSQL Exercises](https://pgexercises.com/questions/basic/selectall.html)
+
+[Password Storage Cheat Sheet (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+
+[Dangit, Git?!?](https://ohshitgit.com/)
+
+[MIT Version Control (Missing Semester)](https://missing.csail.mit.edu/2020/version-control/)
+
+[Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
+
+[LeetCode](https://leetcode.com/)
+
+[HackerRank](https://www.hackerrank.com/)
+
+[Learn C++](https://www.learncpp.com/)
+
+[Effective Modern C++](https://moodle.ufsc.br/pluginfile.php/2377667/mod_resource/content/0/Effective_Modern_C__.pdf)
+
+[SQL Tutorial (Mode Analytics)](https://mode.com/sql-tutorial/)
+
+[LearnShell.org](https://www.learnshell.org/)
+
+[The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html)
+
+[C# 9.0 In a Nutshell](https://www.amazon.com/C-9-0-Nutshell-Definitive-Reference/dp/1098100964)
+
+[A Tour of C++](https://library.samdu.uz/download/11092)
+
+[Journal of Machine Learning Research (JMLR)](https://jmlr.org/)
+
+[r/REU (Research Experiences for Undergraduates)](https://www.reddit.com/r/REU/)
+
+[List of Companies Hiring Without "Whiteboard" Interviews](https://github.com/poteto/hiring-without-whiteboards)
+
+[SQL Interview Questions (InterviewBit)](https://www.interviewbit.com/sql-interview-questions/)
+
+[Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+
+[LeetCode Interview Questions for Big Tech (FLAG)](https://github.com/Charmve/LeetCode4FLAG)
+
+[Technical Interview Preparation Guide](https://github.com/Olshansk/interview)
+
+[Preparing for your Interview (Meta Careers)](https://www.metacareers.com/profile/preparation_hub?chooseView=Arrays)
+
+[Company Interview Questions (GitHub Repo)](https://github.com/sachuverma/DataStructures-Algorithms/tree/master/Companywise%20Questions)
+
+[Beginner's Guide to Deploying Web Apps](https://medium.com/swlh/localhost-to-com-deploying-a-web-app-for-beginners-ea05b0213eb7)
+
+[Invoice Generator](https://invoiceto.me/)
+
+[Tome (AI Storytelling Format)](https://tome.app/)
+
+[Profile Picture Maker](https://pfpmaker.com/)
+
+[Synthesia (AI Video Generation)](https://www.synthesia.io/)
+
+[WolframAlpha (Computational Knowledge Engine)](https://www.wolframalpha.com/)
+
+[Online Compiler (Many Languages)](https://www.mycompiler.io/)
+
+[Computer Vision: Algorithms and Applications, 2nd Edition](https://szeliski.org/Book/)
+
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+[Linear Programming Introduction](https://www.optimization101.org/2020/12/welcome.html?m=1)
+
+[A Guide to Technical Interviews for AI Researchers (PDF) — March 2025](https://attachments.convertkitcdnn2.com/1152607/59845259-d7c4-4e3b-bbde-477d11fedf3d/march-2025-a-guide-to-technical-interviews-for-ai-researchers-1.pdf?ck_subscriber_id=3596593631)
+
+[*Cracking the Coding Interview* (6th Edition) discussion on LeetCode](https://leetcode.com/discuss/post/1152824/cracking-the-coding-interview-6th-editio-97nm/)
+
+[Tensor Puzzles (GitHub)](https://github.com/srush/Tensor-Puzzles)
+
+[Srush NLP YouTube playlists](https://www.youtube.com/@srush_nlp/playlists)
+
+[Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
+
+[Deep Learning Interview Questions list by Julian8897 on Medium](https://medium.com/@julian8897/list/dl-interview-questions-8b0ec46701ec)
+
+[Hugging Face docs: Accelerate — FSDP and DeepSpeed](https://huggingface.co/docs/accelerate/en/concept_guides/fsdp_and_deepspeed)
+
+[Machine Learning Cheat Sheet PDF (by SoulMachine)](https://raw.githubusercontent.com/soulmachine/machine-learning-cheat-sheet/master/machine-learning-cheat-sheet.pdf)
+
+[Machine Learning Interview (GitHub) by khangich](https://github.com/khangich/machine-learning-interview?tab=readme-ov-file)
+
+[Lilian Weng’s blog](https://lilianweng.github.io/)
+
+[Spinning Up in Deep Reinforcement Learning (OpenAI)](https://spinningup.openai.com/en/latest/)
+
+[Symmetric Key Cryptanalysis How-To by akircanski](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html)
+
+[The Novice's LLM Training Guide](https://rentry.org/llm-training)
+
+[Top 55 Machine Learning Interview Questions for 2025](https://rentry.org/llm-training)
+
+[Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0#heading=h.pxcur8v2qagu)
+
+[How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+
+[Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828)
+
+[An Introduction to Convolutional Neural Networks](https://arxiv.org/pdf/1511.08458)
+
+[Recurrent Neural Networks (RNNs): A gentle Introduction and Overview](https://arxiv.org/pdf/1912.05911)
+
+[Quantum Machine Learning](https://arxiv.org/pdf/1912.05911)
+
+[Steps Toward Artificial Intelligence](https://courses.csail.mit.edu/6.803/pdf/steps.pdf)
+
+[A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
+
+[Lecture 2 | The Universal Approximation Theorem](https://www.youtube.com/watch?v=lkha188L4Gs)
+
+[New Video Tutorial: Make a Neural Net Simulator in C++](https://millermattson.com/dave/?p=54)
+
+[CS-449: Neural Networks](https://people.willamette.edu/~gorr/classes/cs449/intro.html)
+
+[If my kids excel, will they move away?](https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html)
+
+[Duke University Introduction to Machine Learning](https://online.duke.edu/course/introduction-to-machine-learning/)
+
+[Technical Interivew Guide for AI Researchers & ML Engineers](https://attachments.convertkitcdnn2.com/1152607/59845259-d7c4-4e3b-bbde-477d11fedf3d/march-2025-a-guide-to-technical-interviews-for-ai-researchers-1.pdf?ck_subscriber_id=3596593631)
+
+[Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/contents/1.1.1-working-in-research-vs.-workingin-production.html)
+
+[Security Pro, Chapter 2](https://www.comptia.org/en-us/certifications/security-pro/)
+
+[Lecture 1: Understanding Machine Learning Production [draft]](https://docs.google.com/document/d/1VuofeF5okBATz1F7HRQmOgi5Jc4bmUiHMYjRqwF-29s/edit?tab=t.0)
+
+[Security Pro, Chapter 3](https://www.comptia.org/en-us/certifications/security-pro/)
+
+[CrypTool-Online](https://legacy.cryptool.org/en/cto/)
+
+[Analysis of large binaries and games in Ghidra-SRE](https://kiwidog.me/2021/07/analysis-of-large-binaries-and-games-in-ghidra-sre/)
+
+[Reversing WannaCry Part 3 - The encryption component](https://www.youtube.com/watch?v=ru5VzUigKqw)
+
+[Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in #Ghidra](https://www.youtube.com/watch?v=Sv8yu12y5zM)
+
+[WANNACRY: Earth's Deadliest [Computer] Viruses](https://www.youtube.com/watch?v=I5Wxh-rCzrY)
+
+[GitHub - NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+[Ghidra - Wikipedia](https://en.wikipedia.org/wiki/Ghidra)
+
+[pwn.college - Program Security - Reverse Engineering](https://pwn.college/program-security/reverse-engineering/)
+
+[pwn.college - System Security - Kernel Security](https://pwn.college/system-security/kernel-security/)
+
+[pwn.college - Intro to Cybersecurity - Intercepting Communication](https://pwn.college/intro-to-cybersecurity/intercepting-communication/)
+
+[pwn.college - Assembly Refresher - Computer Architecture](http://www.youtube.com/watch?v=9jc0eSnrzF4)
+
+[pwn.college - Program Interaction - Linux Process Loading](http://www.youtube.com/watch?v=kUMCAzSOY-o)
+
+[pwn.college - Program Interaction - Binary Files](http://www.youtube.com/watch?v=nKqFeYJ483U)
+
+[pwn.college - Program Interaction - Linux Process Loading](http://www.youtube.com/watch?v=kUMCAzSOY-o)
+
+[pwn.college - Program Interaction - Linux Process Execution](http://www.youtube.com/watch?v=Vtb5wIlthRg)
+
+[pwn.college - Assembly Refresher - Assembly](http://www.youtube.com/watch?v=ImdnOGNZflU)
+
+[In-depth: ELF - The Extensible & Linkable Format](http://www.youtube.com/watch?v=nC1U1LJQL8o)
+
+[Using GDB to look at core files](https://web.eecs.umich.edu/~sugih/pointers/gdb_core.html)
+
+[Basics of Probability: Unions, Intersections, and Complements](https://www.youtube.com/watch?v=B1v9OeCTlu0&list=PLvxOuBpazmsOGOursPoofaHyz_1NpxbhA&index=3)
+
+[An Introduction to Conditional Probability](https://www.youtube.com/watch?v=bgCMjHzXTXs&list=PLvxOuBpazmsOGOursPoofaHyz_1NpxbhA&index=4)
+
+[If, only if & if and only if](https://www.youtube.com/watch?v=LHq5u6v1RKg)
+
 [Estimation Approximation Errors](https://mlweb.loria.fr/book/en/estimationapproximationerrors.html)
+
 [The Complete Mathematics of Neural Networks and Deep Learning by Adam Dhalla](https://www.youtube.com/watch?v=Ixl3nykKG9M)
+
 [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](https://artint.info/)
+
 [Neural Networks, University of Pennsylvania](https://www.cis.upenn.edu/~danroth/Teaching/CS446-17/LectureNotesNew/neuralnet1/main.pdf)
+
 [Math animations   derivatives by noureldin hassan](https://www.youtube.com/watch?v=53R2f5PLf7k)
+
 [The Jacobian Matrix by Christopher Lum](https://www.youtube.com/watch?v=QexBVGVM690)
+
 [Introduction to Neural Networks by Christopher Lum](https://www.youtube.com/watch?v=i2fmaabIs5w)
+
+[Introduction to Neural Networks by Christopher Lum](https://www.youtube.com/watch?v=i2fmaabIs5w&list=PLxdnSsBqCrrHllMNTIxfo771wFulZZ13X)
+
+[A Survival Guide to a PhD](https://cs.stanford.edu/people/karpathy/advice.html)
+
+["Surely You're Joking, Mr. Feynman!"](https://books.google.com/books?id=7papZR4oVssC&lpg=PP1&dq=surely%20you%27re%20joking%20mr.%20feynman&pg=PA173#v=onepage&q=surely%20you're%20joking%20mr.%20feynman&f=false)
+
+[Lessons from my PhD](https://karpathy.github.io/2016/09/07/phd/)
+
+[Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
