@@ -326,4 +326,4 @@ All of the sources listed below are from material that I have learned from. Whet
 
 [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)
 
-[Chonki AI Pipeline Documentation](https://docs.chonkie.ai/oss/pipeline)
+[Chonki AI Pipeline Documentation](https://docs.chonkie.ai/oss/pipelines)
