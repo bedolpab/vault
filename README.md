@@ -305,3 +305,25 @@ All of the sources listed below are from material that I have learned from. Whet
 [Lessons from my PhD](https://karpathy.github.io/2016/09/07/phd/)
 
 [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
+
+[Neural Networks and Deep Learning - Chapter 1](https://neuralnetworksanddeeplearning.com/chap1.html)
+
+[Deep Learning State of the Art (2018) | MIT](https://arxiv.org/pdf/1802.01528)
+
+[A Gentle Introduction to Homological Algebra](https://math.uchicago.edu/~may/REU2018/REUPapers/Guilhoto.pdf)
+
+[Formal Mathematics Statement Curriculum Learning](https://arxiv.org/pdf/2105.04026)
+
+[Neural Networks - Mathematical Tours](https://mathematical-tours.github.io/book-basics-sources/neural-networks-en/NeuralNetworksEN.pdf)
+
+[Why Mini-batch Size is Better (Stack Exchange)](https://datascience.stackexchange.com/questions/16807/why-mini-batch-size-is-better-than-one-single-batch-with-all-training-data)
+
+[Neural Networks and Deep Learning - Chapter 2](https://neuralnetworksanddeeplearning.com/chap2.html)
+
+[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+[The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+[Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)
+
+[Chonki AI Pipeline Documentation](https://docs.chonkie.ai/oss/pipeline)
